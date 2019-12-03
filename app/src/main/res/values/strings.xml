@@ -36,4 +36,7 @@
     <string name="title_activity_word_of_day">WordOfDay</string>
     <string name="title_activity_socially">Socially</string>
     <string name="title_activity_days_without_incident">DaysWithoutIncident</string>
+    <string name="title_activity_this_is_the_way">ThisIsTheWay</string>
+    <string name="title_activity_notes">Notes</string>
+    <string name="title_activity_exercise">Exercise</string>
 </resources>
