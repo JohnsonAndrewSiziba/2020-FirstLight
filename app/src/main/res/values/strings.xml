@@ -33,4 +33,7 @@
     <string name="title_activity_sadness">Sadness</string>
     <string name="title_activity_happiness">Happiness</string>
     <string name="title_activity_thought">Thought</string>
+    <string name="title_activity_word_of_day">WordOfDay</string>
+    <string name="title_activity_socially">Socially</string>
+    <string name="title_activity_days_without_incident">DaysWithoutIncident</string>
 </resources>

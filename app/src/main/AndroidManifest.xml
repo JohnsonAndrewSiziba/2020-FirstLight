@@ -10,9 +10,21 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
+            android:name=".DaysWithoutIncident"
+            android:label="@string/title_activity_days_without_incident"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity
+            android:name=".Socially"
+            android:label="@string/title_activity_socially"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".WordOfDay"
+            android:label="@string/title_activity_word_of_day"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
             android:name=".Thought"
             android:label="@string/title_activity_thought"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".Happiness"
             android:label="@string/title_activity_happiness"
