@@ -1,0 +1,75 @@
+1. Diary - day to day
+You can go back and edit yesterday
+You can make speculations about tomorrow and then write what actually happens
+2. Store data locally & sync with server when conection established
+3. Log locations locally & sync with server locally
+
+4. Song of the week
+5. Crush of the month
+& follow up: what did you do about it?
+
+6. Alarms
+30 Diff alarms (one for each day)
+2200 - Sleep
+0300 - Wake up
+
+7. What made you sad/angry today (tick if it made you sad or angry)
+8. What made you happy today?
+9. Overall happiness level ( scale 1 - 10 )
+
+10. Prayer of the day
+11. Today's act of kindness
+
+12. Thought of the day
+
+13. Fears section
+
+14. Today's progress
+15. Month's progress report
+
+16. Week summary
+17. Month summary
+
+18. Word of the day
+
+19. Approached a person & spoke to him/her (socially) section
+
+20. Days without incident checklist
+
+21. Bad habbits and good habbits section
+
+22. God, bibble verser, prayers and motivation section
+
+23. Number of prayers on the day section & what did you pray about
+
+24. Bad Habbits and Good habbits section
+
+25. Plans & Ideas section
+
+26. Manuscripts
+
+27. Movies, Ts and Series you watched today & your thoughts
+
+28. Selfie of the day
+
+29. Who did you communicate with by call or sm. Copy & paste convos if necessary and give detils
+
+30. Learning Japanese
+
+31. Math of the day
+
+32. 33 Meditation time alert
+
+33. Bath time alert
+
+34. Brush teeth reminders
+
+35. Prayer reminders
+
+36. motivational quotes alerts throughout the day randomly
+
+37. qr code login to computer (like whatsapp web)
+
+38. Notes (e.g, class notes)
+
+39. Exercising schedule 
